@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tructran1911
+/src/backend/database.py      @tructran1911
+/src/backend/routers/auth.py  @tructran1911
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tructran1911
